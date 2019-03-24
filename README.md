@@ -7,3 +7,5 @@ To learn about more advanced discretization approaches, refer to the following:
 
 - Munos, R. and Moore, A., 2002. [Variable Resolution Discretization in Optimal Control]
 (https://link.springer.com/content/pdf/10.1023%2FA%3A1017992615625.pdf). In _Machine Learning_, 49(2), pp. 291-323.
+
+OpenAI Gym can be used with a little tweak in the jupyter file. Allow 3rd party cookies and make sure the video is renderable in your browser.
